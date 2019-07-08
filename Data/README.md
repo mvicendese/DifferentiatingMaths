@@ -2,3 +2,6 @@ Lessons is a file of all the subtopics, and where it can be found in a levelled 
 
 World lessons are all the world text book. Perhaps this is now unneccessary with the "Lessons" file. However, there are a few subtopics in the world of maths that is not in a level text. 
 
+The curric file is all of the curriculum. 
+
+The Curriculum with Lessons in Strands is objects in objects!! Strands contain substrands that contain streams that contain curriculum codes that contain lessons.  
