@@ -71,16 +71,6 @@
               <item name="MathspaceDataAddon" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathspaceDataAddon" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MathspaceDataAddon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathspaceDataAddon" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathspaceDataAddon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathspaceDataAddon" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -118,16 +108,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562642504364</updated>
       <workItem from="1562642505506" duration="985000" />
-      <workItem from="1562804061729" duration="1201000" />
+      <workItem from="1562804061729" duration="2404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2186000" />
+    <option name="totallyTimeSpent" value="3389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122732125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
