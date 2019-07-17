@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from "../Components/Button";
 import ReactDOM from "react-dom";
-import Test from "./test";
+import Home from "./Home"
 
 
 function App() {
@@ -13,6 +13,6 @@ function App() {
 }
 
 function Navigate(){
-  ReactDOM.render(<Test />, document.getElementById('root'))
+  ReactDOM.render(<Home />, document.getElementById('root'))
 }
 export default App;
